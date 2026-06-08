@@ -18,3 +18,6 @@ ENV FLASK_APP=app.py
 
 # Run the Flask app
 CMD ["flask", "run", "--host=0.0.0.0"]
+
+# docker scout quickview sarthakk011/vanya:latest1 ----- to check vulerabilities and recommendations
+
